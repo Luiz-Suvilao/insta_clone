@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Enéas Carneiro",
+    "description": "Mais um dia debatendo com idiotas",
+    "imgProfile":
+      "https://www.camara.leg.br/internet/deputado/bandep/74269.jpgmaior.jpg",
+    "publication": "https://i.ytimg.com/vi/f6KGdNH2yiU/maxresdefault.jpg",
+    "hasLike": true,
+    "qtdLike": 1
+  },
+  {
+    "id": 2,
+    "name": "Enéas Carneiro",
+    "description": "Mais um dia debatendo com idiotas",
+    "imgProfile":
+      "https://www.camara.leg.br/internet/deputado/bandep/74269.jpgmaior.jpg",
+    "publication": "https://i.ytimg.com/vi/f6KGdNH2yiU/maxresdefault.jpg",
+    "hasLike": true,
+    "qtdLike": 1
+  },
+  {
+    "id": 3,
+    "name": "Enéas Carneiro",
+    "description": "Mais um dia debatendo com idiotas",
+    "imgProfile":
+      "https://www.camara.leg.br/internet/deputado/bandep/74269.jpgmaior.jpg",
+    "publication": "https://i.ytimg.com/vi/f6KGdNH2yiU/maxresdefault.jpg",
+    "hasLike": false,
+    "qtdLike": 1
+  },
+  {
+    "id": 4,
+    "name": "Jair Messias Bolsonaro",
+    "description": "Muita hora nessa calma, talkey?",
+    "imgProfile":
+    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg",
+    "publication": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aJMANkyK4o3xD0UQt6HpL59-pxnBQj9GkA&usqp=CAU",
+    "hasLike": true,
+    "qtdLike": 300000000000
+  }
+]
